@@ -40,7 +40,7 @@
     "Link": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=mmNPmLoAAAAJ&amp;pagesize=100&amp;citation_for_view=mmNPmLoAAAAJ:eJXPG6dFmWUC",
     "Authors": "N Iswarya, LS Jayashree",
     "Source": "Wireless Personal Communications 120 (2), 1057-1078, 2021",
-    "Citations": 62,
+    "Citations": 63,
     "Year": "2021",
     "Quartile": "Q2"
   },
@@ -103,7 +103,7 @@
     "Link": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=mmNPmLoAAAAJ&amp;pagesize=100&amp;citation_for_view=mmNPmLoAAAAJ:t6usbXjVLHcC",
     "Authors": "GM George, LS Jayashree",
     "Source": "KSII Transactions on Internet &amp; Information Systems 16 (11), 3694, 2022",
-    "Citations": 17,
+    "Citations": 18,
     "Year": "2022",
     "Quartile": "Q3"
   },
@@ -153,6 +153,15 @@
     "Quartile": "Others"
   },
   {
+    "Title": "A communication‐efficient framework for outlier‐free data reporting in data‐gathering sensor networks",
+    "Link": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=mmNPmLoAAAAJ&amp;pagesize=100&amp;citation_for_view=mmNPmLoAAAAJ:qjMakFHDy7sC",
+    "Authors": "LS Jayashree, S Arumugam, AR Meenakshi",
+    "Source": "International Journal of Network Management 18 (5), 437-445, 2008",
+    "Citations": 7,
+    "Year": "2008",
+    "Quartile": "Q2"
+  },
+  {
     "Title": "Agile supply chain management enabled by the internet of things and microservices",
     "Link": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=mmNPmLoAAAAJ&amp;pagesize=100&amp;citation_for_view=mmNPmLoAAAAJ:u9iWguZQMMsC",
     "Authors": "G Selvakumar, LS Jayashree",
@@ -189,15 +198,6 @@
     "Quartile": "Others"
   },
   {
-    "Title": "A communication‐efficient framework for outlier‐free data reporting in data‐gathering sensor networks",
-    "Link": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=mmNPmLoAAAAJ&amp;pagesize=100&amp;citation_for_view=mmNPmLoAAAAJ:qjMakFHDy7sC",
-    "Authors": "LS Jayashree, S Arumugam, AR Meenakshi",
-    "Source": "International Journal of Network Management 18 (5), 437-445, 2008",
-    "Citations": 6,
-    "Year": "2008",
-    "Quartile": "Q2"
-  },
-  {
     "Title": "Early detection of cognitive impairment of elders using wearable sensors",
     "Link": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=mmNPmLoAAAAJ&amp;pagesize=100&amp;citation_for_view=mmNPmLoAAAAJ:p2g8aNsByqUC",
     "Authors": "SM Ammal, LS Jayashree",
@@ -225,6 +225,15 @@
     "Quartile": "Q1"
   },
   {
+    "Title": "A communication efficient framework for soil moisture monitoring using wireless sensor networks",
+    "Link": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=mmNPmLoAAAAJ&amp;pagesize=100&amp;citation_for_view=mmNPmLoAAAAJ:2osOgNQ5qMEC",
+    "Authors": "LS Jayashree, VK Yamini, RM Priya",
+    "Source": "International Journal of Computer Applications 975, 8887, 2010",
+    "Citations": 5,
+    "Year": "2010",
+    "Quartile": "Others"
+  },
+  {
     "Title": "Edge computing in IoT",
     "Link": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=mmNPmLoAAAAJ&amp;pagesize=100&amp;citation_for_view=mmNPmLoAAAAJ:8AbLer7MMksC",
     "Authors": "LS Jayashree, G Selvakumar",
@@ -240,15 +249,6 @@
     "Source": "Advances in Natural and Applied Sciences 10 (6 SE), 26-30, 2016",
     "Citations": 4,
     "Year": "2016",
-    "Quartile": "Others"
-  },
-  {
-    "Title": "A communication efficient framework for soil moisture monitoring using wireless sensor networks",
-    "Link": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=mmNPmLoAAAAJ&amp;pagesize=100&amp;citation_for_view=mmNPmLoAAAAJ:2osOgNQ5qMEC",
-    "Authors": "LS Jayashree, VK Yamini, RM Priya",
-    "Source": "International Journal of Computer Applications 975, 8887, 2010",
-    "Citations": 4,
-    "Year": "2010",
     "Quartile": "Others"
   },
   {
